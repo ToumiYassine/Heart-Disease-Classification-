@@ -4,7 +4,7 @@ Apply machine learning techniques on unbalanced  data for Heart Disease  classif
 
 + To make a classication model just launch the notebook  "Cardio vascular classification.ipynb"
 
- + To run the graphical interface, just download folder " project " then followed the following instructions :
+ + To run the graphical interface, just download this project then followed the following instructions :
 
    - download the model in pkl form
    -  run this command in the terminal :  pip install -r requirements.txt
